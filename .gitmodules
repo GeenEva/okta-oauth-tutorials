@@ -1,0 +1,3 @@
+[submodule "cart--service"]
+	path = cart--service
+	url = https://github.com/GeenEva/okta-token-relay-to-service.git
