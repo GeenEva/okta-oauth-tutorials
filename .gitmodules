@@ -4,3 +4,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/GeenEva/spring_cloud_gateway_app.git
+[submodule "price-service"]
+	path = price-service
+	url = https://github.com/GeenEva/Okta-Service-to-Service-Client-Credentials-Grant.git
