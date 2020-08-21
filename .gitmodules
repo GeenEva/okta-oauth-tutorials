@@ -1,3 +1,6 @@
 [submodule "cart--service"]
 	path = cart--service
 	url = https://github.com/GeenEva/okta-token-relay-to-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/GeenEva/spring_cloud_gateway_app.git
